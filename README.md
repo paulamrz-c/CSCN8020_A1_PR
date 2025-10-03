@@ -2,7 +2,7 @@
 
 Welcome to my repository for **Assignment 1 of CSCN8020**.  
 
-This project implements and analyzes **four reinforcement learning problems**:  
+This project implements and analyzes **[four reinforcement learning problems](https://paulamrz-c.github.io/CSCN8020_A1_PR/Assignment%201%20-%20ALL%204%20Problems.html)**:  
 1. **Problem 1** → Pick-and-Place Robot
 2. **Problem 2** → 2x2 Gridworld (Iterations)
 3. **Problem 3** → 5x5 Gridworld (In-place Value Iteration and Normal Value Iteration)
@@ -33,7 +33,8 @@ This project implements and analyzes **four reinforcement learning problems**:
     - ![Monte Carlo Off-policy IS](img/output_MC.png)
 
   These images are shown in the notebook and here in the repository to support the final conclusions.  
-
+- **HTML**
+- https://paulamrz-c.github.io/CSCN8020_A1_PR/Assignment%201%20-%20ALL%204%20Problems.html
 ---
 
 ## 🚀 Quick Start
